@@ -3,5 +3,4 @@
 # hello-world
 
 Github documentation is super friendly.
-I wish more/all tech companies explain their stuff this way.
-
+I wish more/all tech companies explained their stuff this clearly.
