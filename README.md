@@ -2,6 +2,6 @@
 
 # hello-world
 
-Github documentation is super friendly.
+Github documentation is super friendly :)
 
 I wish all (tech) companies explained their stuff this clearly.
