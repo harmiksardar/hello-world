@@ -4,7 +4,7 @@
   "author": "harmiksardar :-)",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.11.1"
+    "jshint": "^2.13.6"
   },
   "scripts": {
     "test": "jshint hello.js"
